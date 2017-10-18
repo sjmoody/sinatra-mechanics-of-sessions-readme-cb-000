@@ -99,9 +99,9 @@ This will bring up a list of all of the sites that your browser has stored cooki
 
 There are several ways to clear a session cookie. The first is to simply log out of the site. That ends the current session, at which point all session cookies are automatically cleared.
 
-You can also clear session cookies from the Developer Tools interface. Simply right-click on a session and select either `Delete` or `Clear All from "learn.co"`.
+You can also clear session cookies from the Developer Tools interface. Simply click to select a session cookie and then click the x icon in the toolbar above. 
 
-![Clear cookies](https://s3.amazonaws.com/learn-verified/clear-cookies.png)
+![Clear cookies](https://lh3.google.com/u/1/d/0B-lMoW0mdPNtUHNfUko2eTdxX1E=w1446-h960-iv1)
 
 If you remove the session cookies and refresh the page, you'll notice that you've been logged out of the site.
 
